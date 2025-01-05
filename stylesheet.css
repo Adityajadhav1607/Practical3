@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  display: flex;
+  background-color: rgb(145, 175, 198);
+  height: 70px;
+}
+.codex {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.nav1 {
+  display: flex;
+  margin: auto;
+  gap: 50px;
+  margin-left: 900px;
+}
+body {
+  background-image: url("https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-size: cover;
+  background-position: 0px -20px;
+  background-repeat: no-repeat; 
+}
+.box{
+    
+    margin-top: 500px;
+    margin-left: 50px;
+}
